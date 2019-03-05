@@ -1,0 +1,81 @@
+html, body {
+	background: #238DFF;
+	text-decoration: none;
+	color: white;
+	padding: 45px 20px 20px;
+       font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+	background: #007BFF;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 75px;
+	border-bottom: 4px solid #007EFF;
+	z-index: 999999999;
+}
+
+.desc {
+	margin-top:-15px;
+}
+
+.descr {
+	padding: 35px;
+	background: #007BFF;
+	height: 420px auto;
+	border: 4px solid rgba(255, 255, 255, 0.1) !important;
+}
+.crd {
+	border: 4px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+#disqus_thread {
+	padding: 15px;
+}
+
+.login-input {
+	padding-right: 25px;
+	margin-right: 25px;
+}
+
+.keyinput, .keyinput[readonly] {
+	border-radius: 0;
+	color: silver;
+	background: #238DFF;
+	border: 4px solid #007EFF;
+	z-index: 999999999;
+}
+
+.keyinput:hover {
+	border-radius: 0;
+	color: silver;
+	background: #238DFF;
+	border: 4px solid #007EFF;
+	z-index: 999999999;
+}
+
+.keyinput:action {
+	border-radius: 0;
+	color: silver;
+	background: #238DFF;
+	border: 4px solid #007EFF;
+	z-index: 999999999;
+}
+
+.keyinput:selected {
+	border-radius: 0;
+	color: silver;
+	background: #238DFF;
+	border: 4px solid #007EFF;
+	z-index: 999999999;
+}
+
+.keyinput:focus {
+	border-radius: 0;
+	color: silver;
+	background: #238DFF;
+	border: 4px solid #007EFF;
+	z-index: 999999999;
+}

@@ -1,0 +1,52 @@
+html, body {
+	background: #D9D9D9;
+	text-decoration: none;
+	color: black;
+	padding: 100px 20px 20px;
+}
+
+
+.crd-h {
+	color: grey;
+	background: #E3E3E3;
+	display: block;
+	height: 50px;
+	width: 75%;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	margin-left: 12.5%;
+}
+
+.crd-h h4 {
+	font-size: 18px;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.crd-h i {
+	letter-spacing: 3px;
+	float: right;
+}
+
+.crd {
+	background: white;
+	display: block;
+	height: 300px;
+	width: 75%;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	padding-top: 75px;
+	padding-left: 55px;
+	padding-right: 55px;
+	margin-left: 12.5%;
+}
+
+.crd p {
+	padding-left: 85px;
+	padding-right: 85px;
+}
+
+.inpt:focus {
+	outline: none;
+}
